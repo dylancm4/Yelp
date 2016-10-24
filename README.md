@@ -31,7 +31,7 @@ Filters page:
 * [x] Distance filter should expand as in the real Yelp app.
 * [X] Categories should show a subset of the full list with a "See All" row to expand.
 
-**Additional** functionality
+**Additional** functionality:
 
 * [x] User sees loading state while waiting for Yelp API.
 * [x] Images fade in as they are loading.
@@ -44,9 +44,9 @@ Filters page:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Open-Source Libraries Used
-AFNetworking
-BDBOAuth1Manager
-MBProgressHUD
+* AFNetworking
+* BDBOAuth1Manager
+* MBProgressHUD
 
 ## License
 
